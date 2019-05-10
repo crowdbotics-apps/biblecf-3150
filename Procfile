@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT biblecf_3150.wsgi:application
